@@ -4,3 +4,4 @@ faiss-cpu
 fastapi
 uvicorn
 python-dotenv
+langchain-community
