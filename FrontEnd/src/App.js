@@ -26,7 +26,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await fetch("http://localhost:8000/ask", {
+      const res = await fetch(`${process.env.REACT_APP_API_URL}/ask`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question: q }),
