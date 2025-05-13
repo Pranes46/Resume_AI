@@ -26,12 +26,11 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await fetch(`${process.env.REACT_APP_API_URL}/ask`, {
+      const res = await fetch("http://localhost:8000/ask", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question: q }),
       });
-
       const data = await res.json();
       setMessages((prev) => [...prev, { sender: "bot", text: data.answer }]);
     } catch (err) {
