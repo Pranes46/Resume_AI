@@ -31,6 +31,7 @@ function App() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question: q }),
       });
+
       const data = await res.json();
       setMessages((prev) => [...prev, { sender: "bot", text: data.answer }]);
     } catch (err) {
