@@ -1,50 +1,54 @@
 PRANES GOPALAN VENKATESH
-pranesgvenkatesh20@gmail.com | +1 (551)-786-1731 | linkedin.com/in/pranes
-                        public.tableau.com | github.com/Pranes46
-EDUCATION
-Stevens Institute of Technology | Hoboken, New Jersey                                                                                                May 2023 Master of Science in Data Science | CGPA: 3.80/4.00
-PSG College of Technology | Coimbatore, India                                                                                                              May 2021
-Bachelor of Engineering in Electronics and Communication | CGPA: 3.20/4.00
-
+Texas • +1 (551) 786-1731 • pranesgvenkatesh20@gmail.com • LinkedIn • GitHub • Tableau
+Experienced AI & Data Science Engineer with expertise in large language models (LLMs), RAG pipelines, and prompt evaluation frameworks. Skilled in orchestrating LangChain and LangGraph-based AI workflows using FastAPI, deployed across cloud-native stacks. Strong foundation in Python, NLP (NLTK, Hugging Face, SpaCy), and data analytics with tools like Tableau, Power BI, and scikit-learn. Adept at developing scalable ML solutions and embedding LLMs into real-world applications with structured evaluation, fine-tuning, and enterprise-grade reliability.
 SKILLS
-Programming Languages: Python, R, Javascript, Typescript, SQL
-Operational Improvement: Proficient in Lean, Six Sigma, Business Process Improvement, Change Management, and Organizational Design
-Frameworks/Technologies: LangChain, LangGraph, LangSmith, Linux/Unix, Node.js, React.js, Express.js, Firebase, Redux, Git, Python (NumPy, Pandas, Seaborn, Plotly, Matplotlib, Keras, Tensorflow, Scikit), PySpark, Snowflake, Hadoop, AWS (S3, RDS, Glue, EC2, Redshift), FastAPI
-Tools/DBs: Tableau, PowerBI, PostgreSQL, Apache Airflow, Apache Spark, Apache Zookeeper, Apache Kafka, Github, MySQL, MongoDB, Advanced Microsoft Excel (Macros, Pivot Tables, Lookup, VBA), Figma, Jira
-MS Services: Office 365, Visio, Power Apps, Power Automate, Access, Power BI, Powerpoint, Sharepoint
-Knowledge Areas: Data Visualization, Data Collection, Data Modeling, Data Management, Data Governance Github, SSIS, ML, Statistical Analysis, NLP, Agile Project Methodology
-
+Programming Languages: Python, R, JavaScript, SQL
+Frameworks and Libraries: LangChain, LangGraph, PySpark, TensorFlow, scikit-learn, NLTK, SpaCy, Plotly, Seaborn, Matplotlib, Pandas, NumPy, FastAPI, React.js, Tailwind CSS, Node.js, Express.js,
+ML & AI Toolkits: OpenAI API (GPT-3.5, GPT-4), Gemini 2.0 API, Hugging Face Transformers, Evaluate, Manual Prompt Evaluation, RAG Pipelines, Prompt Tuning, LangSmith
+Databases and Caching: PostgreSQL, MySQL, MongoDB, Firebase, Snowflake, Pinecone, FAISS, AWS S3, Google Cloud Storage
+DevOps and CI/CD: Apache Airflow, GitHub Actions, Docker, Render, Vercel, Heroku
+Cloud and Serverless Services: AWS Lambda, Google Firebase, Office 365, Google Workspace, Power Automate
+Testing and Evaluation: Hugging Face Evaluate, scikit-learn metrics, manual evaluation frameworks for LLMs (prompt tuning, human feedback, semantic relevance scoring)
+Tools and Platforms: Git, Postman, Streamlit, FastAPI, VS Code, GitHub, Tableau, Power BI, Figma, Excel (macros, pivot tables)
 PROFESSIONAL EXPERIENCE
-
-Data Scientist | Highbrow Technology	Apr 2024 - Present
-Led RLHF (Reinforcement Learning from Human Feedback) initiatives while working with Google as a client, enhancing the alignment and quality of LLM-generated outputs
-Developed scalable LangChain and LangGraph pipelines for prompt routing, query understanding, and retrieval-augmented generation (RAG), enabling dynamic LLM orchestration in production-grade workflows
-Evaluated and improved model responses through detailed prompt testing and quality analysis, ensuring accuracy, contextual relevance, and safety at scale
-Collaborated with product and engineering teams to define task specifications, evaluate prompt variants, and document model behavior across different use cases
-Used internal labeling tools to annotate and audit thousands of model completions, contributing to fine-tuning and benchmarking efforts across multiple LLM tasks
- Data Analyst | Lorhan Corporation 	Aug 2023 - Apr 2024
-Designed interactive dashboards with Tableau and Power BI to provide real-time insights for data-driven decision-making
-Improved data retrieval by 5% with PostgreSQL, tried out MySQL for specific needs, and explored MongoDB for different database options
-Proficiently managed large datasets and implemented techniques for efficient big data management
-Automated data processing tasks using Microsoft Excel, leveraging Pivot Tables and Lookup functions to reduce manual effort by 40%
-Collaborated cross-functionally with backend engineers and product leads to deploy LLM components on Google Cloud (GCP), ensuring seamless integration with existing systems and maintaining low-latency inference performance.
-Collaborated with cross-functional teams to identify trends, automate reporting workflows, and drive strategic initiatives, leading to 20% improvement in operational efficiency
+Highbrow - Turing, Remote, United States	Apr 2024 – Present
+Data Scientist 
+Led RLHF (Reinforcement Learning from Human Feedback) efforts with Google as a client, enhancing LLM alignment through iterative feedback loops and behavior tuning for safe, high-quality outputs.
+Developed production-grade LangChain and LangGraph pipelines for prompt routing, semantic query understanding, and Retrieval-Augmented Generation (RAG), powering dynamic, context-aware LLM orchestration.
+Designed and executed structured prompt evaluations, systematically testing variations for accuracy, relevance, and safety to drive empirical improvements in model performance and response quality.
+Used internal labeling tool to assess thousands of LLM completions, ranking outputs and providing comparative judgments to inform reward modeling, prompt tuning, and fine-tuning cycles.
+Contributed to large-scale model benchmarking and dataset curation, analyzing response patterns across tasks to support alignment, model calibration, and annotation-guided training workflows.
+Collaborated cross-functionally with product and engineering teams to define evaluation criteria, build scalable testing frameworks, and document model behaviors for downstream LLM applications.
+Lorhan Corporation, New Jersey, United States	Aug 2023 – Apr 2024
+Data Analyst
+Built and maintained real-time dashboards using Tableau and Power BI, providing key business insights to internal teams and leadership for strategic decision-making.
+Improved data retrieval efficiency by 5% by optimizing PostgreSQL queries; evaluated MySQL and MongoDB to support varied internal data needs.
+Automated recurring data processing tasks in Excel using Pivot Tables, LOOKUP functions, and scripting, reducing manual workload by 40%.
+Contributed to internal analytics tooling and pre-sales enablement efforts by aligning data infrastructure with evolving client-facing solution requirements.
+Collaborated with backend engineers and product leads to deploy LLM components on Google Cloud, ensuring seamless integration with internal systems and maintaining low-latency inference.
 ACADEMIC PROJECTS
-
-Twitter Data ETL Pipeline with Apache Airflow and AWS Integration
-Implemented a comprehensive ETL pipeline for extracting Twitter data via API calls, seamlessly orchestrated through Apache Airflow
-Employed AWS EC2 instances to optimize data transfer, ensuring streamlined storage on AWS S3 for subsequent analysis and processing
-King County, Washington Real Estate Data Analysis and Visualization
-Utilized Excel for detailed data cleaning, ensuring the accuracy and consistency of the dataset before visualization in Tableau
-Utilized Tableau for interactive visualizations, showcasing house sales distribution and price analysis. Facilitated informed business decisions on market trends, investments, and pricing strategies
-Statistical Data Analysis (Hypothesis Testing | Regression Analysis | Time Series Analysis)
-Gathered and processed 1000 data records, employing imputation techniques for data cleaning and visualization before hypothesis assumption
-Utilized regression analysis to evaluate model performance, revealing a significant relationship between variables with a low P-Value of 8.62e-96, despite observing no linear relationship between attributes
-Predict Job Change of Data Scientists (Python | Classification Techniques | SMOTE | Machine Learning)
-Applied models and data to understand and predict companies’ investment on employees. This project improved the business decision accuracy by 84% with hyper tuned, Random Forest modeled data and presented findings
-
+Resume AI Chatbot | FastAPI, LangChain, OpenAI, FAISS, React.js, Tailwind CSS, Render
+Developed an AI assistant that answers recruiter questions using Retrieval-Augmented Generation (RAG) with LangChain, FAISS, and OpenAI embeddings.
+Deployed a FastAPI backend on Render and built dual frontend using React.js for interactive user experience.
+Hotel Review Sentiment Analysis | Python, Selenium, NLTK, Scikit-learn, Gensim, VADER, Doc2Vec, TF-IDF, Matplotlib, Seaborn
+Extracted customer reviews and ratings from Airbnb using Selenium and labeled them as positive or negative based on rating thresholds.
+Performed advanced NLP preprocessing and feature engineering (VADER sentiment, TF-IDF, Doc2Vec) to train classification models for binary sentiment prediction.
+Twitter Data ETL Pipeline with Apache Airflow and AWS Integration | Python, Apache Airflow, AWS EC2/S3
+Built an automated ETL pipeline to extract real-time Twitter data via API calls, orchestrated using Apache Airflow for scheduled processing.
+Leveraged AWS EC2 for compute efficiency and stored processed data on S3, enabling scalable downstream analytics and ML integration.
+King County Real Estate Data Analysis and Visualization | Excel, Tableau
+Cleaned and validated real estate sales data in Excel to ensure dataset accuracy and consistency prior to visualization.
+Developed interactive Tableau dashboards to analyze price trends, sales distribution, and investment hotspots, enabling data-driven decision-making in the Washington housing market.
+EDUCATION
+Stevens Institute of Technology, Hoboken, United States	Aug 2021 – May 2023
+Master of Science in Data Science, GPA: 3.8/4.0
+Relevant Coursework: Applied Machine Learning, Deep Learning, Web Mining, Big Data, DBMS, Time Series
+PSG College of Technology, Tamil Nadu, India	 Jun 2018 – May 2021
+Bachelor of Engineering in Electronics and Communication, GPA: 7.5/10.0
+Relevant Coursework: Relational Database management System, Data Structures and Algorithms, IT & Software Fundamentals
 CERTIFICATION
-AWS Certified Cloud Practitioner | UDEMY Data Science Bootcamp
+AWS Certified Cloud Practitioner, UDEMY Data Science Bootcamp
+
 
 
 How I built this AI: I built a chatbot using the Retrieval-Augmented Generation (RAG) pipeline to enable context-aware responses grounded in custom documents. I began by loading the relevant documents and splitting them into coherent chunks using `RecursiveCharacterTextSplitter`, which ensures semantic integrity by breaking the text along logical boundaries like paragraphs and sentences. These chunks were then embedded using OpenAI’s `text-embedding-ada-002` model to generate dense vector representations that capture semantic meaning. I stored these vectors in a FAISS (Facebook AI Similarity Search) vector store, which was ideal for this small-scale project due to its in-memory speed and efficient similarity search capabilities. When a user submits a query, the system retrieves the most relevant document chunks from FAISS and passes them, along with the query, to GPT-3.5 Turbo for final answer synthesis. This approach combines precise retrieval with the natural language generation capabilities of the LLM, ensuring the chatbot produces accurate, context-rich responses tailored to the user's input.

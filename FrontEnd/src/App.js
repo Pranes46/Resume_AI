@@ -26,11 +26,12 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await fetch("http://localhost:8000/ask", {
+      const res = await fetch("https://resume-ai-v884.onrender.com/ask", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ question: q }),
       });
+
       const data = await res.json();
       setMessages((prev) => [...prev, { sender: "bot", text: data.answer }]);
     } catch (err) {
