@@ -1,53 +1,24 @@
 PRANES GOPALAN VENKATESH
 Texas • +1 (551) 786-1731 • pranesgvenkatesh20@gmail.com • LinkedIn • GitHub • Tableau
-Experienced AI & Data Science Engineer with expertise in large language models (LLMs), RAG pipelines, and prompt evaluation frameworks. Skilled in orchestrating LangChain and LangGraph-based AI workflows using FastAPI, deployed across cloud-native stacks. Strong foundation in Python, NLP (NLTK, Hugging Face, SpaCy), and data analytics with tools like Tableau, Power BI, and scikit-learn. Adept at developing scalable ML solutions and embedding LLMs into real-world applications with structured evaluation, fine-tuning, and enterprise-grade reliability.
-SKILLS
-Programming Languages: Python, R, JavaScript, SQL
-Frameworks and Libraries: LangChain, LangGraph, PySpark, TensorFlow, scikit-learn, NLTK, SpaCy, Plotly, Seaborn, Matplotlib, Pandas, NumPy, FastAPI, React.js, Tailwind CSS, Node.js, Express.js,
-ML & AI Toolkits: OpenAI API (GPT-3.5, GPT-4), Gemini 2.0 API, Hugging Face Transformers, Evaluate, Manual Prompt Evaluation, RAG Pipelines, Prompt Tuning, LangSmith
-Databases and Caching: PostgreSQL, MySQL, MongoDB, Firebase, Snowflake, Pinecone, FAISS, AWS S3, Google Cloud Storage
-DevOps and CI/CD: Apache Airflow, GitHub Actions, Docker, Render, Vercel, Heroku
-Cloud and Serverless Services: AWS Lambda, Google Firebase, Office 365, Google Workspace, Power Automate
-Testing and Evaluation: Hugging Face Evaluate, scikit-learn metrics, manual evaluation frameworks for LLMs (prompt tuning, human feedback, semantic relevance scoring)
-Tools and Platforms: Git, Postman, Streamlit, FastAPI, VS Code, GitHub, Tableau, Power BI, Figma, Excel (macros, pivot tables)
-PROFESSIONAL EXPERIENCE
-Highbrow - Turing, Remote, United States	Apr 2024 – Present
-Data Scientist 
-Led RLHF (Reinforcement Learning from Human Feedback) efforts with Google as a client, enhancing LLM alignment through iterative feedback loops and behavior tuning for safe, high-quality outputs.
-Developed production-grade LangChain and LangGraph pipelines for prompt routing, semantic query understanding, and Retrieval-Augmented Generation (RAG), powering dynamic, context-aware LLM orchestration.
-Designed and executed structured prompt evaluations, systematically testing variations for accuracy, relevance, and safety to drive empirical improvements in model performance and response quality.
-Used internal labeling tool to assess thousands of LLM completions, ranking outputs and providing comparative judgments to inform reward modeling, prompt tuning, and fine-tuning cycles.
-Contributed to large-scale model benchmarking and dataset curation, analyzing response patterns across tasks to support alignment, model calibration, and annotation-guided training workflows.
-Collaborated cross-functionally with product and engineering teams to define evaluation criteria, build scalable testing frameworks, and document model behaviors for downstream LLM applications.
-Lorhan Corporation, New Jersey, United States	Aug 2023 – Apr 2024
-Data Analyst
-Built and maintained real-time dashboards using Tableau and Power BI, providing key business insights to internal teams and leadership for strategic decision-making.
-Improved data retrieval efficiency by 5% by optimizing PostgreSQL queries; evaluated MySQL and MongoDB to support varied internal data needs.
-Automated recurring data processing tasks in Excel using Pivot Tables, LOOKUP functions, and scripting, reducing manual workload by 40%.
-Contributed to internal analytics tooling and pre-sales enablement efforts by aligning data infrastructure with evolving client-facing solution requirements.
-Collaborated with backend engineers and product leads to deploy LLM components on Google Cloud, ensuring seamless integration with internal systems and maintaining low-latency inference.
-ACADEMIC PROJECTS
-Resume AI Chatbot | FastAPI, LangChain, OpenAI, FAISS, React.js, Tailwind CSS, Render
-Developed an AI assistant that answers recruiter questions using Retrieval-Augmented Generation (RAG) with LangChain, FAISS, and OpenAI embeddings.
-Deployed a FastAPI backend on Render and built dual frontend using React.js for interactive user experience.
-Hotel Review Sentiment Analysis | Python, Selenium, NLTK, Scikit-learn, Gensim, VADER, Doc2Vec, TF-IDF, Matplotlib, Seaborn
-Extracted customer reviews and ratings from Airbnb using Selenium and labeled them as positive or negative based on rating thresholds.
-Performed advanced NLP preprocessing and feature engineering (VADER sentiment, TF-IDF, Doc2Vec) to train classification models for binary sentiment prediction.
-Twitter Data ETL Pipeline with Apache Airflow and AWS Integration | Python, Apache Airflow, AWS EC2/S3
-Built an automated ETL pipeline to extract real-time Twitter data via API calls, orchestrated using Apache Airflow for scheduled processing.
-Leveraged AWS EC2 for compute efficiency and stored processed data on S3, enabling scalable downstream analytics and ML integration.
-King County Real Estate Data Analysis and Visualization | Excel, Tableau
-Cleaned and validated real estate sales data in Excel to ensure dataset accuracy and consistency prior to visualization.
-Developed interactive Tableau dashboards to analyze price trends, sales distribution, and investment hotspots, enabling data-driven decision-making in the Washington housing market.
-EDUCATION
-Stevens Institute of Technology, Hoboken, United States	Aug 2021 – May 2023
-Master of Science in Data Science, GPA: 3.8/4.0
-Relevant Coursework: Applied Machine Learning, Deep Learning, Web Mining, Big Data, DBMS, Time Series
-PSG College of Technology, Tamil Nadu, India	 Jun 2018 – May 2021
-Bachelor of Engineering in Electronics and Communication, GPA: 7.5/10.0
-Relevant Coursework: Relational Database management System, Data Structures and Algorithms, IT & Software Fundamentals
-CERTIFICATION
-AWS Certified Cloud Practitioner, UDEMY Data Science Bootcamp
+Professional Summary
+I am an experienced AI & Data Science Engineer specializing in large language models (LLMs), RAG pipelines, and prompt evaluation frameworks. My expertise lies in orchestrating AI workflows using LangChain and LangGraph with FastAPI deployments across cloud-native architectures. I have built a strong foundation in Python, NLP (utilizing NLTK, Hugging Face, and SpaCy), and data analytics with visualization tools including Tableau and Power BI. Throughout my career, I've focused on developing scalable machine learning solutions and integrating LLMs into practical applications with structured evaluation methodologies, fine-tuning capabilities, and enterprise-grade reliability.
+Technical Skills
+My programming proficiency spans Python, R, JavaScript, and SQL. I work extensively with AI/ML frameworks including LangChain, LangGraph, PySpark, TensorFlow, and scikit-learn. For natural language processing tasks, I leverage NLTK, SpaCy, and Hugging Face Transformers. My data visualization toolkit includes Plotly, Seaborn, Matplotlib, and I'm comfortable building web applications using FastAPI, React.js, Tailwind CSS, Node.js, and Express.js.
+I have hands-on experience with various ML and AI systems, particularly working with OpenAI API (GPT-3.5, GPT-4), Gemini 2.0 API, implementing RAG pipelines, and conducting prompt tuning and evaluation through LangSmith. For data storage and retrieval, I utilize PostgreSQL, MySQL, MongoDB, Firebase, Snowflake, and vector databases like Pinecone and FAISS. My cloud infrastructure knowledge encompasses AWS S3, Lambda, Google Cloud Storage, Firebase, and Office 365 integrations.
+My DevOps and deployment experience includes Apache Airflow for workflow orchestration, GitHub Actions for CI/CD pipelines, and containerization with Docker. I've deployed applications on various platforms including Render, Vercel, and Heroku. For LLM evaluation, I implement both automated metrics through Hugging Face Evaluate and structured manual evaluation frameworks that incorporate human feedback and semantic relevance scoring.
+Professional Experience
+Since April 2024, I've been working as a Data Scientist at Highbrow - Turing remotely in the United States. In this role, I lead Reinforcement Learning from Human Feedback (RLHF) initiatives for Google, enhancing LLM alignment through iterative feedback processes and behavior tuning to ensure safe, high-quality outputs. I've developed production-grade LangChain and LangGraph pipelines that power dynamic, context-aware LLM orchestration through prompt routing, semantic query understanding, and Retrieval-Augmented Generation (RAG).
+A significant part of my work involves designing and implementing structured prompt evaluations to systematically test variations for accuracy, relevance, and safety, driving empirical improvements in model performance. I've used internal labeling tools to assess thousands of LLM completions, providing comparative judgments that inform reward modeling and fine-tuning cycles. Additionally, I contribute to large-scale model benchmarking and dataset curation by analyzing response patterns across various tasks, supporting alignment and annotation-guided training workflows. I regularly collaborate with cross-functional teams to define evaluation criteria, build scalable testing frameworks, and document model behaviors for downstream LLM applications.
+Previously, from August 2023 to April 2024, I worked as a Data Analyst at Lorhan Corporation in New Jersey. There, I built and maintained real-time dashboards using Tableau and Power BI to provide business insights for strategic decision-making. I improved data retrieval efficiency by 5% through PostgreSQL query optimization and evaluated different database solutions to support diverse internal data needs. I also automated recurring data processing tasks in Excel using advanced functions and scripting, which reduced manual workload by 40%. I contributed to internal analytics tooling and pre-sales enablement efforts by aligning data infrastructure with evolving client requirements. Working closely with backend engineers and product leads, I helped deploy LLM components on Google Cloud, ensuring seamless integration with internal systems while maintaining low-latency inference.
+Projects
+One of my key projects is a Resume AI Chatbot built with FastAPI, LangChain, OpenAI, FAISS, React.js, and Tailwind CSS, deployed on Render. This AI assistant answers recruiter questions using Retrieval-Augmented Generation (RAG) with LangChain, FAISS, and OpenAI embeddings. I deployed a FastAPI backend on Render and created an interactive user experience with a React.js frontend.
+I also developed a Hotel Review Sentiment Analysis system using Python, Selenium, NLTK, scikit-learn, Gensim, VADER, Doc2Vec, TF-IDF, and visualization libraries. This project involved extracting customer reviews from Airbnb using Selenium and labeling them based on rating thresholds. I performed advanced NLP preprocessing and feature engineering to train classification models for binary sentiment prediction.
+Another significant project was a Twitter Data ETL Pipeline implemented with Apache Airflow and AWS integration. I built an automated pipeline to extract real-time Twitter data via API calls, orchestrated using Apache Airflow for scheduled processing. The system leveraged AWS EC2 for compute efficiency and stored processed data on S3 to enable scalable downstream analytics and ML integration.
+Additionally, I conducted a King County Real Estate Data Analysis and Visualization project using Excel and Tableau. This involved cleaning and validating real estate sales data in Excel before developing interactive Tableau dashboards to analyze price trends, sales distribution, and investment hotspots in the Washington housing market.
+Education
+I earned my Master of Science in Data Science from Stevens Institute of Technology in Hoboken, United States, from August 2021 to May 2023, achieving a GPA of 3.8/4.0. My relevant coursework included Applied Machine Learning, Deep Learning, Web Mining, Big Data, DBMS, and Time Series analysis.
+Prior to that, I completed my Bachelor of Engineering in Electronics and Communication at PSG College of Technology in Tamil Nadu, India, from June 2018 to May 2021, with a GPA of 7.5/10.0. My undergraduate coursework included Relational Database Management Systems, Data Structures and Algorithms, and IT & Software Fundamentals.
+I hold an AWS Certified Cloud Practitioner certification and have completed the UDEMY Data Science Bootcamp.
 
 
 
